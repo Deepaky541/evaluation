@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+.nav{
+    overflow: hidden;
+    background-color: rgb(156, 2, 2);
+    
+}
+.nav div{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.nav div:hover {
+    background-color: #ddd;
+    color: black;
+}
+.nav div.nav1{
+    background-color: #000000;
+    color: white;
+}
